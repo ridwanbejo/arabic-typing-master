@@ -52,3 +52,4 @@ Thanks for your participation.
 
 ᮠᮒᮥᮁ ᮔᮥᮠᮥᮔ᮪ ᮒᮧᮞ᮪ ᮞᮥᮙ᮪ᮕᮤᮀ 🙏.
 |᮲᮱| ᮔᮧᮗᮦᮙ᮪ᮘᮨᮁ |᮲᮰᮲᮶|# arabic-typing-master
+# arabic-typing-master
